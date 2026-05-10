@@ -3,7 +3,7 @@
 
 ## Projects
 ### Machina Finance
-#### Grid Tading
+#### Grid Trading
 - [Audit](./machina_finance/4eyes_audit_machina_finance_grid_trading.pdf)
 - Comments:
     - This audit does not contain the T2T limit order contract since it was not fully implemented yet.
