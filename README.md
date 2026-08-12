@@ -2,6 +2,11 @@
 4EYES protocol audits.
 
 ## Projects
+### Lithos
+#### Mining (Part 1)
+- [Audit](./lithos/4eyes_audit_lithos_mining_part1.pdf)
+- Comments:
+    - This is part 1 of 3 covering the LIT emissions and collateral contracts.
 ### Machina Finance
 #### Grid Trading
 - [Audit](./machina_finance/4eyes_audit_machina_finance_grid_trading.pdf)
